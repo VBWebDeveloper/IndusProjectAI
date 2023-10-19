@@ -1,0 +1,10 @@
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\obj\Debug\TheIndusProject.AssetInsight.csproj.AssemblyReference.cache
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\obj\Debug\TheIndusProject.AssetInsight.TheIndusProjectTranslatorFrm.resources
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\obj\Debug\TheIndusProject.AssetInsight.csproj.GenerateResource.cache
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\obj\Debug\TheIndusProject.AssetInsight.csproj.CoreCompileInputs.cache
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\bin\Debug\TheIndusProject.AssetInsight.exe.config
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\bin\Debug\TheIndusProject.AssetInsight.exe
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\bin\Debug\TheIndusProject.AssetInsight.pdb
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\obj\Debug\TheIndusProject.AssetInsight.Properties.Resources.resources
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\obj\Debug\TheIndusProject.AssetInsight.exe
+C:\D_Drive\Utilities_.NET\TheIndusProject_AssetInsight\obj\Debug\TheIndusProject.AssetInsight.pdb

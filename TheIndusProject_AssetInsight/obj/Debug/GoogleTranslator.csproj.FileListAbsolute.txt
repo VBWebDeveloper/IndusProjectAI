@@ -1,0 +1,9 @@
+C:\D_Drive\Utilities_.NET\GoogleTranslator\bin\Debug\RavSoft.GoogleTranslator.exe.config
+C:\D_Drive\Utilities_.NET\GoogleTranslator\bin\Debug\RavSoft.GoogleTranslator.exe
+C:\D_Drive\Utilities_.NET\GoogleTranslator\bin\Debug\RavSoft.GoogleTranslator.pdb
+C:\D_Drive\Utilities_.NET\GoogleTranslator\obj\Debug\GoogleTranslator.csproj.AssemblyReference.cache
+C:\D_Drive\Utilities_.NET\GoogleTranslator\obj\Debug\RavSoft.GoogleTranslator.GoogleTranslatorFrm.resources
+C:\D_Drive\Utilities_.NET\GoogleTranslator\obj\Debug\GoogleTranslator.csproj.GenerateResource.cache
+C:\D_Drive\Utilities_.NET\GoogleTranslator\obj\Debug\GoogleTranslator.csproj.CoreCompileInputs.cache
+C:\D_Drive\Utilities_.NET\GoogleTranslator\obj\Debug\RavSoft.GoogleTranslator.exe
+C:\D_Drive\Utilities_.NET\GoogleTranslator\obj\Debug\RavSoft.GoogleTranslator.pdb
